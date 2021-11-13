@@ -10,5 +10,5 @@
 
 
 <br>
-[![Watch the video](https://img.youtube.com/vi/4-LT069CChA/maxresdefault.jpg)](https://www.youtube.com/watch?v=LT069CChA-4)
+<video src='https://www.youtube.com/watch?v=LT069CChA-4' width=360/>
 <br/>
